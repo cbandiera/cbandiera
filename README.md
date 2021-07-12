@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cbandiera
 - 👀 I’m interested in python unix javascript
-- 🌱 I’m currently learning japanese
+- 🌱 I’m currently learning Teraform
 - 📫 How to reach me: carlosbpaiva@gmail.com
 
 <!---
